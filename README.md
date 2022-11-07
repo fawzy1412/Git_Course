@@ -1,7 +1,7 @@
 # Git_Course
 
 
-##Project Steps
+## Project Steps
 
 
-######Notes
+###### Notes
